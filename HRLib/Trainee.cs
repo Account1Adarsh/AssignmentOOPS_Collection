@@ -24,7 +24,7 @@ namespace HRLib
 			set { ratePerDay = value; }
 		}
         #endregion
-
+        //GENIUS COMMENTING ON HIS CODE
 
         #region Constructor
         public Trainee():base()

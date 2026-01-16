@@ -3,9 +3,9 @@
     public abstract class Employee
     {
 		private static int count;
-
-        #region Property
-        private int empNo;
+//HELLO
+		#region Property
+		private int empNo;
 
 		public int EmpNo
 		{

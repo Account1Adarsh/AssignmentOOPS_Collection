@@ -6,6 +6,10 @@ namespace HRAPP
     {
         static void Main(string[] args)
         {
+            //Console.WriteLine("Hello, HR Application!");
+            //this simple comment
+
+
             ConfirmEmployee employee;
             ConfirmEmployee employee1;
 
